@@ -6,4 +6,5 @@ matplotlib
 requests
 plotly-express
 simpy
+xlrd
 
